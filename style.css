@@ -72,10 +72,13 @@ body{
   backdrop-filter: blur(10px);
   border-radius: 50px;
   box-shadow: 5px 5px 20px 1px #b711e0;
+  padding-bottom:40px;
 }
 .aboutsection{
   display: flex;                  /* <— enables flexbox */
-  flex-direction: column;         /* optional: stack children vertically */
+  flex-direction: column; 
+  padding-top:80px;
+  padding-bottom:80px;
 
 }
 p{
@@ -729,3 +732,4 @@ h4{
     font-size: 40px;
   }
   }
+
