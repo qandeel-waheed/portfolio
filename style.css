@@ -676,6 +676,9 @@ h4{
     height: 100vh;
     height: fit-content;
     overflow: auto;
+    justify-content: center;
+  align-items: center;
+  place-items: center;
   }
 
   .info-sec{
@@ -732,4 +735,5 @@ h4{
     font-size: 40px;
   }
   }
+
 
