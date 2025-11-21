@@ -7,6 +7,9 @@
 html {
   scroll-behavior: smooth;
 }
+a{
+  text-decoration:none;
+}
 body{
   justify-content: center;
   align-items: center;
@@ -178,7 +181,6 @@ nav a:hover ,
   text-wrap: nowrap;
   margin: 0 auto;
   display: block;
-  margin-top:15px;
 }
 
 .btn:hover{
@@ -791,6 +793,7 @@ h4{
     font-size: 40px;
   }
   }
+
 
 
 
