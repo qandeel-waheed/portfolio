@@ -179,7 +179,10 @@ nav a:hover ,
   margin-right: 15px;
   transition: 0.3s;
   text-wrap: nowrap;
-  margin: 0 auto;
+
+}
+.btnportfolio{
+    margin: 0 auto;
   display: block;
 }
 
@@ -793,6 +796,7 @@ h4{
     font-size: 40px;
   }
   }
+
 
 
 
