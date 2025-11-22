@@ -9,6 +9,7 @@ html {
 }
 a{
   text-decoration:none;
+  color:white;
 }
 body{
   justify-content: center;
@@ -692,6 +693,7 @@ h4{
   width: 20px !important;
   height: 20px !important;
 }
+
 
 
 
