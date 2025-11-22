@@ -27,6 +27,9 @@ body{
   letter-spacing: .5px;
   margin: 0 0 10px;
 }
+.qt-sub{
+  text-align: center;
+  padding-bottom:25px;
 .me{
     color: #5bbdff;
   position: relative;
@@ -698,6 +701,7 @@ h4{
     object-fit: contain;
     filter: invert(1); /* makes icons white */
 }
+
 
 
 
