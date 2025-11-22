@@ -668,7 +668,7 @@ h4{
 .contact-list li {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 8px;
     margin-bottom: 18px;
 }
 
@@ -692,6 +692,7 @@ h4{
   width: 20px !important;
   height: 20px !important;
 }
+
 
 
 
