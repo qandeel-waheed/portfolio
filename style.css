@@ -672,13 +672,6 @@ h4{
     margin-bottom: 18px;
 }
 
-.contact-list li h4 {
-    font-size: 16px;
-    margin: 0;
-    font-weight: 600;
-    color: #fff; /* adjust according to your footer color */
-}
-
 .contact-list li p {
     margin: 0;
     color: #d4d4d4; /* adjust */
@@ -686,22 +679,20 @@ h4{
 }
 
 .contact-icon {
-    width: 40px;
-    height: 40px;
-    min-width: 40px;
+    width: 20px;
+    height: 20px;
+    min-width: 20px;
     border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
     background: linear-gradient(135deg, #4a4a78, #243345);
 }
-
-.contact-icon img {
-    width: 20px;
-    height: 20px;
-    object-fit: contain;
-    filter: invert(1); /* makes icons white */
+.contact-icon svg {
+  width: 20px !important;
+  height: 20px !important;
 }
+
 
 
 
