@@ -670,7 +670,6 @@ h4{
     display: flex;
     align-items: center;
     gap: 8px;
-    margin-bottom: 18px;
 }
 
 .contact-list li p {
@@ -693,6 +692,7 @@ h4{
   width: 20px !important;
   height: 20px !important;
 }
+
 
 
 
