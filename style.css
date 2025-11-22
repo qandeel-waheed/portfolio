@@ -674,7 +674,7 @@ h4{
 
 .contact-list li p {
     margin: 0;
-    color: #d4d4d4; /* adjust */
+    color: white; /* adjust */
     font-size: 14px;
 }
 
@@ -692,6 +692,7 @@ h4{
   width: 20px !important;
   height: 20px !important;
 }
+
 
 
 
