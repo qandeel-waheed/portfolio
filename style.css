@@ -664,6 +664,7 @@ h4{
     list-style: none;
     padding: 0;
     margin: 0;
+  margin-top:20px;
 }
 
 .contact-list li {
@@ -679,9 +680,9 @@ h4{
 }
 
 .contact-icon {
-    width: 20px;
-    height: 20px;
-    min-width: 20px;
+    width: 30px;
+    height: 30px;
+    min-width: 30px;
     border-radius: 10px;
     display: flex;
     align-items: center;
@@ -692,21 +693,3 @@ h4{
   width: 20px !important;
   height: 20px !important;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
