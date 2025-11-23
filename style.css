@@ -680,17 +680,19 @@ h4{
 }
 
 .contact-icon {
-    width: 25px;
-    height: 25px;
-    min-width: 25px;
+    width: 30px;
+    height: 30px;
+    min-width: 30px;
     border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
     background: linear-gradient(135deg, #4a4a78, #243345);
+  margin-bottom:10px;
 }
 .contact-icon svg {
   width: 20px !important;
   height: 20px !important;
 }
+
 
