@@ -637,7 +637,9 @@ h4{
 .btnportfolio{
 display: inline-block;
   position: relative;      /* create a positioning context for the button */
-  left: 50%;
-  transform: translateX(-50%); /
+  left: 220%;
+  transform: translateX(-50%); 
+  margin-top:20px;
 }
+
 
