@@ -636,10 +636,11 @@ h4{
 }
 .btnportfolio{
 display: inline-block;
-  position: relative;      /* create a positioning context for the button */
+  position: relative;
   left: 220%;
   transform: translateX(-50%); 
   margin-top:20px;
 }
+
 
 
