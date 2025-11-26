@@ -386,7 +386,6 @@ h4{
 /* Grid */
 #mpx-projects .mpx-grid {
   display: grid;
-  /* grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); */
   grid-template-columns: repeat(3, 1fr);
   gap: var(--mpx-gap);
 }
@@ -641,6 +640,7 @@ display: inline-block;
   transform: translateX(-50%); 
   margin-top:20px;
 }
+
 
 
 
