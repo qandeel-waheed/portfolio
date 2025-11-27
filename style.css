@@ -634,10 +634,11 @@ h4{
   height: 20px !important;
 }
 .btnportfolio{
-display: inline-block;
+/* display: inline-block;
   position: relative;
   /* left: 220%; */
-  transform: translateX(-50%); 
+  /* transform: translateX(-50%); */
   margin-top:20px;
 }
+
 
