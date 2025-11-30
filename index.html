@@ -173,17 +173,6 @@
 <div class="Buttons">
   <button class="btn" id="dlBtn" data-aos="zoom-in-right" data-aos-duration="1000" data-aos-delay="1100">Download CV</button>
 </div>
-<script>
-document.getElementById('dlBtn').addEventListener('click', function() {
-  const url = 'Qandeel Waheed CV.pdf'; // or an absolute URL
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = 'Qandeel Waheed CV.pdf'; // optional: set filename like 'brochure.pdf'
-  document.body.appendChild(a);
-  a.click();
-  a.remove();
-});
-</script>     
     </div>
   </section>
  <!-- portfolio section -->
@@ -313,7 +302,19 @@ document.getElementById('dlBtn').addEventListener('click', function() {
   </div>
 </footer>
 </body>
+  <script>
+document.getElementById('dlBtn').addEventListener('click', function() {
+  const url = 'Qandeel Waheed CV.pdf'; // or an absolute URL
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'Qandeel Waheed CV.pdf'; // optional: set filename like 'brochure.pdf'
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+});
+</script>     
 </html>
+
 
 
 
