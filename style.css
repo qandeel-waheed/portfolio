@@ -15,6 +15,7 @@ body{
   justify-content: center;
   align-items: center;
   place-items: center;
+  background-color:black;
 }
 .mpx-card-link {
   text-decoration: none;
@@ -640,5 +641,6 @@ h4{
   /* transform: translateX(-50%); */
   margin-top:20px;
 }
+
 
 
