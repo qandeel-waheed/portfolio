@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
-  background-color:black;
 }
 html {
   scroll-behavior: smooth;
@@ -544,6 +543,7 @@ h4{
     justify-content: center;
   align-items: center;
   place-items: center;
+  background-color:black;
   }
 
   .info-sec{
@@ -642,6 +642,7 @@ h4{
   /* transform: translateX(-50%); */
   margin-top:20px;
 }
+
 
 
 
