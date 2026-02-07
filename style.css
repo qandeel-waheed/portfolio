@@ -176,7 +176,7 @@ nav a:hover ,
 
 .btn{
   display: inline-block;
-  padding: 15px 30px;
+  padding: 10px 30px;
   background-color: #b711e0;
   border: 2px solid #b711e0;
   border-radius: 40px;
@@ -648,6 +648,7 @@ h4{
   align-items:center;
   margin-top:20px;
 }
+
 
 
 
