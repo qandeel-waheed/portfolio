@@ -182,7 +182,7 @@ nav a:hover ,
   background-color: #b711e0;
   border: 2px solid #b711e0;
   border-radius: 40px;
-  box-shadow: 0 0 10px #b711e0;
+  /* box-shadow: 0 0 10px #b711e0; */
   font-size: 16px;
   font-weight: 700;
   color: white;
@@ -647,6 +647,7 @@ h4{
   /* transform: translateX(-50%); */
   margin-top:20px;
 }
+
 
 
 
