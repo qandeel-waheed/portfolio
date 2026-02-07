@@ -172,8 +172,6 @@ nav a:hover ,
 
 .Buttons{
   display: flex;
-  justify-content:center;
-  align-items:center;
 }
 
 .btn{
@@ -645,8 +643,12 @@ h4{
   position: relative;
   /* left: 220%; */
   /* transform: translateX(-50%); */
+  display: flex;
+  justify-content:center;
+  align-items:center;
   margin-top:20px;
 }
+
 
 
 
